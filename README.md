@@ -1,4 +1,25 @@
-## Known as Talha Tahir 😎
+#### I'm known as
+# Talha Tahir! 😎
+
+💻 **Software Developer** | 🌱 **Java Enthusiast** | ☕ **Spring Boot Specialist**
+
+---
+
+## 🔍 About Me
+- 🌟 Passionate about **building robust backend systems** with Spring Boot
+- 🖥️ Love crafting clean and maintainable code
+- 🎯 Constantly learning and exploring new technologies
+
+---
+
+## 🛠 Tech Stack
+**Core Expertise**  
+- ☕ **Java (Spring Boot)**  
+
+**Frontend Basics**  
+- 🌐 HTML | 🎨 CSS | ⚡ JavaScript  
+
+---
 
 <!--
 **TalhahTahir/TalhahTahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
