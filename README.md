@@ -14,7 +14,8 @@
 
 ## 🛠 Tech Stack
 **Core Expertise**  
-- ☕ **Java (Spring Boot)**
+- ☕ **Java**
+- **Spring Boot**
 - **Hibernate**
 - **JDBC**
 
