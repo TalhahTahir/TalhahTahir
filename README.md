@@ -1,7 +1,7 @@
 #### I'm known as
 # Talha Tahir! 😎
 
-💻 **Software Developer** | 🌱 **Java Enthusiast** | ☕ **Spring Boot Specialist**
+💻 **Software Developer** | 🌱 **Java Enthusiast** | ☕ **Spring Boot Specialist** | 🖥 **Computer Scientest** 
 
 ---
 
