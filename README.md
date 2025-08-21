@@ -18,6 +18,7 @@
 - **Spring Boot**
 - **Hibernate**
 - **JDBC**
+- **Rest API**
 
 **Frontend Basics**  
 -  🌐 **HTML**
