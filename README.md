@@ -18,7 +18,9 @@
 - **Hibernate** 
 
 **Frontend Basics**  
-- 🌐 HTML | 🎨 CSS | ⚡ JavaScript  
+-  🌐 **HTML**
+-  🎨 **CSS**
+-  ⚡ **JavaScript**  
 
 ---
 
