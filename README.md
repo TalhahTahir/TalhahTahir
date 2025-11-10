@@ -8,7 +8,8 @@
 ---
 
 ## 🔍 About Me
-- 🌟 Passionate about **building robust backend systems** with Spring Boot
+- 🎓 Student of Computer Science (BSCS)
+- 🌟 Interested in **building robust backend systems** with Spring Boot
 - 🖥️ Love crafting clean and maintainable code
 - 🎯 Constantly learning and exploring new technologies
 
