@@ -8,26 +8,28 @@
 ---
 
 ## About Me
+
 - Student of Computer Science (BSCS)
-- Interested in **building robust backend systems** with Spring Boot
-- Love crafting clean and maintainable code
+- Interested in **building high-value backend systems**
+- Love crafting system designs and workflows
 - Constantly learning and exploring new technologies
 
 ---
 
 ## 🛠 Tech Stack
+
 **Core Expertise**  
-- **Java**
-- **Spring Boot**
-- **Hibernate**
-- **JDBC**
-- **Rest API**
-- **Spring Security**
+- Java
+- Spring Boot
+- Hibernate
+- JDBC
+- Rest API
+- Spring Security
 
 **Frontend Basics**  
-- **HTML**
-- **CSS**
-- **JavaScript**  
+- HTML
+- CSS
+- JavaScript
 
 ---
 
