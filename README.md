@@ -1,32 +1,33 @@
 #### I'm known as
 # Talha Tahir! 😎
 
-💻 **Software Developer** | 🌱 **Java Enthusiast** | ☕ **Spring Boot Specialist** | 🖥 **Computer Scientest** 
+ **Software Developer** | **Java Enthusiast** | **Spring Boot Specialist** |  **Computer Scientest** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/talhahtahir/)
 
 ---
 
-## 🔍 About Me
-- 🎓 Student of Computer Science (BSCS)
-- 🌟 Interested in **building robust backend systems** with Spring Boot
-- 🖥️ Love crafting clean and maintainable code
-- 🎯 Constantly learning and exploring new technologies
+## About Me
+- Student of Computer Science (BSCS)
+- Interested in **building robust backend systems** with Spring Boot
+- Love crafting clean and maintainable code
+- Constantly learning and exploring new technologies
 
 ---
 
 ## 🛠 Tech Stack
 **Core Expertise**  
-- ☕ **Java**
+- **Java**
 - **Spring Boot**
 - **Hibernate**
 - **JDBC**
 - **Rest API**
+- **Spring Security**
 
 **Frontend Basics**  
--  🌐 **HTML**
--  🎨 **CSS**
--  ⚡ **JavaScript**  
+- **HTML**
+- **CSS**
+- **JavaScript**  
 
 ---
 
