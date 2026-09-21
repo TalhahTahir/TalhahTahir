@@ -1,7 +1,7 @@
 #### I'm known as
 # Talha Tahir! 😎
 
- **Software Developer** | **Java Enthusiast** | **Spring Boot Specialist** |  **Computer Scientest** 
+ **Software Engineer** | **Backend Enthusiast** | **Spring Boot** | **MERN Stack** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/talhahtahir/)
 
@@ -11,7 +11,7 @@
 
 - Student of Computer Science (BSCS)
 - Interested in **building high-value backend systems**
-- Love crafting system designs and workflows
+- Love making system designs and workflows
 - Constantly learning and exploring new technologies
 
 ---
@@ -21,15 +21,18 @@
 **Core Expertise**  
 - Java
 - Spring Boot
-- Hibernate
-- JDBC
-- Rest API
 - Spring Security
+- Hibernate
+- Rest API
+- Node.js
 
-**Frontend Basics**  
+**Frontend**  
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- React.js
+- Next.js
 
 ---
 
